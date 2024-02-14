@@ -29,5 +29,5 @@ async def test(ctx):
     await ctx.send("it work's")
 
 
-bot.run('MTA2NTUzMDE3ODQ2NzUyODczNQ.GubYac.1-jqanE0ST9ec8wpPIMVDJWUpaR5ks9cdgx5Fc')
-#client.run('MTA2NTUzMDE3ODQ2NzUyODczNQ.GubYac.1-jqanE0ST9ec8wpPIMVDJWUpaR5ks9cdgx5Fc')
+bot.run('')
+#client.run('')
