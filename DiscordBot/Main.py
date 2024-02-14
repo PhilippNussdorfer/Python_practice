@@ -98,7 +98,7 @@ async def ask(ctx):
     await ctx.send(m)
 
 
-bot.run("MTA3NDk1OTI4MjMxNzA0MTY4NA.GcK0sH.vHENprlSuPfupAbeWOgLX8oV17OwF1evEDqQLo")
+bot.run("")
 
     #import os
     #os.path.join('app', 'subdir', 'dir', 'filename.foo')
